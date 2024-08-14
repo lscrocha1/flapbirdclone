@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://snwgampq2foh"]
+
+[ext_resource type="Script" path="res://Bird/bird.gd" id="1_4vgqy"]
+[ext_resource type="Texture2D" uid="uid://dbjw87n7bfwd2" path="res://Assets/unitytut-birdbody.png" id="1_i8maf"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_wugyy"]
+radius = 32.249
+
+[node name="Bird" type="CharacterBody2D"]
+script = ExtResource("1_4vgqy")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(1, 0)
+scale = Vector2(0.163677, 0.163677)
+texture = ExtResource("1_i8maf")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 7)
+shape = SubResource("CircleShape2D_wugyy")
+
+[node name="Camera2D" type="Camera2D" parent="."]
