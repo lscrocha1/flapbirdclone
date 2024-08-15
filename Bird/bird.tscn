@@ -4,18 +4,18 @@
 [ext_resource type="Texture2D" uid="uid://dbjw87n7bfwd2" path="res://Assets/unitytut-birdbody.png" id="1_i8maf"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_wugyy"]
-radius = 32.249
+radius = 63.0317
 
 [node name="Bird" type="CharacterBody2D"]
 script = ExtResource("1_4vgqy")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(1, 0)
-scale = Vector2(0.163677, 0.163677)
+position = Vector2(38.75, -44.0135)
+scale = Vector2(0.33296, 0.33296)
 texture = ExtResource("1_i8maf")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(0, 7)
+position = Vector2(37, -30)
 shape = SubResource("CircleShape2D_wugyy")
 
 [node name="Camera2D" type="Camera2D" parent="."]

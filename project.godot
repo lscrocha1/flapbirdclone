@@ -15,6 +15,10 @@ run/main_scene="res://World/world.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 
+[display]
+
+window/size/viewport_height=2048
+
 [input]
 
 ui_space_bar={
