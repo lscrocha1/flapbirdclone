@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://up31tnbwaga8"
-path="res://.godot/imported/unitytut-birdwingup.png-5416ce465e2293ada1583517669792dc.ctex"
+uid="uid://cohdwuav8nyhi"
+path="res://.godot/imported/background-day.png-274fc5930afa7065c6e20d104dc7b419.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/unitytut-birdwingup.png"
-dest_files=["res://.godot/imported/unitytut-birdwingup.png-5416ce465e2293ada1583517669792dc.ctex"]
+source_file="res://Assets/background-day.png"
+dest_files=["res://.godot/imported/background-day.png-274fc5930afa7065c6e20d104dc7b419.ctex"]
 
 [params]
 

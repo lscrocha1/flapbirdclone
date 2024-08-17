@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbfggvsrr48ss"
-path="res://.godot/imported/unitytut-birdwingdown.png-b24828edd1436ed8efbd0e9834e18baa.ctex"
+uid="uid://cv0yubk1vubbh"
+path="res://.godot/imported/yellowbird-midflap.png-fe360ba5a4638664d76a97c35ae8825f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/unitytut-birdwingdown.png"
-dest_files=["res://.godot/imported/unitytut-birdwingdown.png-b24828edd1436ed8efbd0e9834e18baa.ctex"]
+source_file="res://Assets/yellowbird-midflap.png"
+dest_files=["res://.godot/imported/yellowbird-midflap.png-fe360ba5a4638664d76a97c35ae8825f.ctex"]
 
 [params]
 
